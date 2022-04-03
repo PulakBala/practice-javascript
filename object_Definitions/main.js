@@ -4,7 +4,6 @@ function anoGlobalFunc () {
     function localFunc () {
         console.log('Local Function')
     }
-    
 }
 anoGlobalFunc();
 localFunc();
